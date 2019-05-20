@@ -1,5 +1,5 @@
-# april-water
-a web-based application project for April Water.
+# April-Water
+Project web-based application for April Water company.
 
 ----
 ## Installation
